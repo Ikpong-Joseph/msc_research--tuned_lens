@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-07-29 17:48:53",
+  "model": "EleutherAI/pythia-2.8b-deduped",
+  "lens": "TunedLens",
+  "statistic": "forward_kl",
+  "input_text": "the capital of france is",
+  "token_range": [
+    0,
+    6
+  ],
+  "layer_stride": 2,
+  "total_tokens": 6,
+  "files_saved": [
+    "/home/ikpong_joseph/msc_research--tuned_lens/plots/html/EleutherAI--pythia-2.8b-deduped_tunedlens_forward_kl_the_capital_of_france_is_20250729_174853.html"
+  ],
+  "kaleido_available": true
+}

@@ -1,0 +1,16 @@
+{
+  "timestamp": "2025-07-29 11:30:48",
+  "model": "EleutherAI/pythia-410m-deduped",
+  "lens": "TunedLens",
+  "statistic": "forward_kl",
+  "input_text": "it was the best of times, it was the worst of times",
+  "token_range": [
+    0,
+    13
+  ],
+  "layer_stride": 1,
+  "total_tokens": 13,
+  "files_saved": [
+    "/home/ikpong_joseph/msc_research--tuned_lens/plots/html/EleutherAI--pythia-410m-deduped_tunedlens_forward_kl_it_was_the_best_of_times_it_was_the_worst_of_times_20250729_113049.html"
+  ]
+}
